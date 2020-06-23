@@ -85,6 +85,8 @@ function sum_avg {
 	done
 	even_avg=$(($even_sum / $even_cnt))
 	odd_avg=$(($odd_sum / $odd_cnt))
+	echo "Odd sum: $odd_avg"
+	echo "Even sum: $even_avg"
 
 	if [[ $even_avg -gt $odd_avg ]]
 	then
