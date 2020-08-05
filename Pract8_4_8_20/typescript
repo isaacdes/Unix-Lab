@@ -1,0 +1,295 @@
+Script started on 2020-08-04 11:45:59+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ clear
+[H[2J[3J]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ awk -f demo.txt 
+awk: 5: unexpected character '''
+]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ awk '{print $3 }[1@ [C[C[C[C[C[C[C[C[C[C' de w[Kmo.txt 
+to
+
+Desouza
+unix
+is
+ole
+]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ cat demo.txt 
+Christ University(Deemed to be Uniiversity)
+1947214
+Isaac Xavier Desouza
+This is unix lab 8
+Today's date is 4th August 2020
+ole oole ole oole , feeling hot hot hot
+]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ clear
+[H[2J[3J]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ awk '/0.5/ { print $1  }' demo.txt 
+]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ awk '/0.5/ { print $1 }' demo.txt [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/ { print $1 }[1P[A]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ [C[C[C[C[C[C[C[C/ { print $1 }'[1P[A]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ [C[C[C[C[C[C[C/ { print $1 }' [1P[A]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ [C[C[C[C[C[C8/ { print $1 }'[1@ [A]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ [C[C[C[C[C[C[C
+
+This
+]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ awk '/^[0-9][0-9]/ {  print $1 }' demo.txt 
+1947214
+]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ ls
+demo.txt  nameemailavg.csv.csv  README.md  typescript
+]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ clear
+[H[2J[3J]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ vimm  [K[K[K demo.txt 
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[24;1H"demo.txt" 6L, 164C[2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[1;1HChrist University(Deemed to be Uniiversity)
+1947214
+Isaac Xavier Desouza
+This is unix lab 8
+Today's date is 4th August 2020
+ole oole ole oole , feeling hot hot hot
+[94m~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [m[24;63H6,39[10CAll[6;39H[?25hP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[27m[23m[29m[m[H[2J[?25l[1;1HChrist University(Deemed to be Uniiversity)
+1947214
+Isaac Xavier Desouza
+This is unix lab 8
+Today's date is 4th August 2020
+ole oole ole oole , feeling hot hot hot
+[94m~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [m[24;63H6,39[10CAll"demo.txt" 6L, 164C[6;39H[?25h[?25l[24;53H~@k[6;39H[24;53H   [5;31H[24;63H5,31[5;31H[?25h[?25l[24;53H~@k[5;31H[24;53H   [4;18H[24;63H4,18[4;18H[?25h[?25l[24;53Hi[4;18H[24;53H [4;18H[24;1H[1m-- INSERT --[m[24;13H[K[24;63H4,18[10CAll[4;18H[?25h[?25l[24;63H3[3;18H[?25h[?25l[24;63H2,8 [2;8H[?25h[?25l[3;23r[3;1H[L[1;24r[24;63H[K[24;63H3,1[11CAll[3;1H[?25h[?25l2[24;65H2[3;2H[?25h[?25l0[24;65H3[3;3H[?25h[?25l2[24;65H4[3;4H[?25h[?25l0[24;65H5[3;5H[?25h[?25l[24;65H6[3;6H[?25h[?25l1[24;65H7[3;7H[?25h[?25l4[24;65H8[3;8H[?25h[?25l[24;65H9[3;9H[?25h[?25l1[24;65H10[3;10H[?25h[?25l5[24;66H1[3;11H[?25h[24;1H[K[3;10H[?25l[24;53H^[[3;10H[24;53H  [3;11H[24;63H3,10[10CAll[3;10H[?25h[?25l[24;53H:[3;10H[24;53H[K[24;1H:[?2004h[?25hwq[?25l[?2004l"demo.txt" 7L, 175C written[23;2t[23;1t
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ cleare[K
+[H[2J[3J]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ cat demo.txt 
+Christ University(Deemed to be Uniiversity)
+1947214
+2020 14 15
+Isaac Xavier Desouza
+This is unix lab 8
+Today's date is 4th August 2020
+ole oole ole oole , feeling hot hot hot
+]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ cat demo.txt [8Plearvim demo.txt [8Pclear[3Plsawk '/^[0-9][0-9]/ { print $1 }' demo.txt 
+1947214
+2020
+]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ clear
+[H[2J[3J]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ awl[Kk '$2 ~/ia/[K[K[K[K[K[K[K[K[K[K[K[K[Kwget -[Khttps://file.io/SnY3LSSBnKbH
+--2020-08-04 12:14:54--  https://file.io/SnY3LSSBnKbH
+Resolving file.io (file.io)... 52.201.54.153, 34.237.119.253
+Connecting to file.io (file.io)|52.201.54.153|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/csv]
+Saving to: ‘SnY3LSSBnKbH’
+
+SnY3LSSBnKbH            [<=>                 ]       0  --.-KB/s               SnY3LSSBnKbH            [ <=>                ]     908  --.-KB/s    in 0s      
+
+2020-08-04 12:15:11 (26.8 MB/s) - ‘SnY3LSSBnKbH’ saved [908]
+
+]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ ls
+demo.txt  nameemailavg.csv.csv  README.md  SnY3LSSBnKbH  typescript
+]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ re[K[Kmv SnY3LSSBnKbH heel. csb[Kv
+]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ ls
+demo.txt  heel.csv  nameemailavg.csv.csv  README.md  typescript
+]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ clear
+[H[2J[3J]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ awk '&[K$2 `[K~ /ia/ { prin t $1 "[K[K }' demo.txt 
+]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ ls
+demo.txt  heel.csv  nameemailavg.csv.csv  README.md  typescript
+]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ lsawk '$2 ~ /ia/ { print $1 }' demo.txt [A]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ clear[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Plsmv SnY3LSSBnKbH heel.csv[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kclear
+[H[2J[3J]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ vim demo.txt 
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[24;1H"demo.txt" 7L, 175C[2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[1;1HChrist University(Deemed to be Uniiversity)
+1947214
+2020 14 15
+Isaac Xavier Desouza
+This is unix lab 8
+Today's date is 4th August 2020
+ole oole ole oole , feeling hot hot hot
+[94m~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [m[24;63H3,10[10CAll[3;10H[?25hP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[27m[23m[29m[m[H[2J[?25l[1;1HChrist University(Deemed to be Uniiversity)
+1947214
+2020 14 15
+Isaac Xavier Desouza
+This is unix lab 8
+Today's date is 4th August 2020
+ole oole ole oole , feeling hot hot hot
+[94m~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [m[24;63H3,10[10CAll"demo.txt" 7L, 175C[3;10H[?25h[?25l[24;53Hi[3;10H[24;53H [3;10H[24;1H[1m-- INSERT --[m[24;13H[K[24;63H3,10[10CAll[3;10H[?25h[?25l[24;65H9 [3;9H[?25h[?25l[24;63H4[4;9H[?25h[?25l[24;63H5[5;9H[?25h[?25l[24;63H6[6;9H[?25h[?25l[24;63H7[7;9H[?25h[?25l[24;65H10[7;10H[?25h[?25l[24;66H1[7;11H[?25h[?25l[24;66H2[7;12H[?25h[?25l[24;66H3[7;13H[?25h[?25l[24;66H4[7;14H[?25h[?25l[24;66H5[7;15H[?25h[?25l[24;66H6[7;16H[?25h[?25l[24;66H7[7;17H[?25h[?25l[24;66H8[7;18H[?25h[?25l[24;66H9[7;19H[?25h[?25l[24;65H20[7;20H[?25h[?25l[24;66H1[7;21H[?25h[?25l[24;66H2[7;22H[?25h[?25l[24;66H3[7;23H[?25h[?25l[24;66H4[7;24H[?25h[?25l[24;66H5[7;25H[?25h[?25l[24;66H6[7;26H[?25h[?25l[24;66H7[7;27H[?25h[?25l[24;66H8[7;28H[?25h[?25l[24;66H9[7;29H[?25h[?25l[24;65H30[7;30H[?25h[?25l[24;66H1[7;31H[?25h[?25l[24;66H2[7;32H[?25h[?25l[24;66H3[7;33H[?25h[?25l[24;66H4[7;34H[?25h[?25l[24;66H5[7;35H[?25h[?25l[24;66H6[7;36H[?25h[?25l[24;66H7[7;37H[?25h[?25l[24;66H8[7;38H[?25h[?25l[24;66H9[7;39H[?25h[?25l[24;65H40[7;40H[?25h[?25l[8;1H[K[24;63H8,1 [8;1H[?25h[?25li[24;65H2[8;2H[?25h[?25la[24;65H3[8;3H[?25h[?25l[8;2H[K[24;65H2[8;2H[?25h[?25l[8;1H[K[24;65H1[8;1H[?25h[?25lt[24;65H2[8;2H[?25h[?25lh[24;65H3[8;3H[?25h[?25li[24;65H4[8;4H[?25h[?25ls[24;65H5[8;5H[?25h[?25l[24;65H6[8;6H[?25h[?25li[24;65H7[8;7H[?25h[?25ls[24;65H8[8;8H[?25h[?25l[24;65H9[8;9H[?25h[?25li[24;65H10[8;10H[?25h[?25la[24;66H1[8;11H[?25h[24;1H[K[8;10H[?25l[24;53H^[[8;10H[24;53H  [8;11H[24;63H8,10[10CAll[8;10H[?25h[?25l[24;53H:[8;10H[24;53H[K[24;1H:[?2004h[?25hwq[?25l[?2004l"demo.txt" 8L, 186C written[23;2t[23;1t
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ vim demo.txt [8Pclear[3Plsawk '$2 ~ /ia/ { print $1 }' demo.txt [A]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ clear[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk '$2 ~ /ia/ { print $1 }' demo.txt 
+]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ awk '$2 ~ /ia/ { print $1 }' demo.txt [A]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ [8Pvim demo.txt 
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk '$2 ~ /ia/ { print $1 }' demo.txt [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C ~ /ia/ { print [1P[A]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ [C[C[C[C[C[C3 ~ /ia/ { print[1@ [A]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ [C[C[C[C[C[C[C
+
+this
+]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ cat hy[K[Kca[K[Ks[Kdemo.txt 
+Christ University(Deemed to be Uniiversity)
+1947214
+2020 14 15
+Isaac Xavier Desouza
+This is unix lab 8
+Today's date is 4th August 2020
+ole oole ole oole , feeling hot hot hot
+this is ia
+]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ cat demo.txt awk '$3 ~ /ia/ { print $1 }' demo.txt [A]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ [C[C[C[C[C[C2
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ awk '$2 ~ /ia/ { print $1 }' demo.txt [A]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ [8Pcat demo.txt 
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk '$3 ~ /ia/ { print $1 }' demo.txt 
+this
+]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ clear
+[H[2J[3J]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ clearawk '$3 ~ /ia/ { print $1 }' demo.txt [A]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ clear[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kcat demo.txt 
+Christ University(Deemed to be Uniiversity)
+1947214
+2020 14 15
+Isaac Xavier Desouza
+This is unix lab 8
+Today's date is 4th August 2020
+ole oole ole oole , feeling hot hot hot
+this is ia
+]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ cat demo.txt [8Plearawk '$3 ~ /ia/ { print $1 }' demo.txt 
+this
+]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ awk '$3 ~ /ia/ { print $1 }' demo.txt [A]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ [8Pcat demo.txt 
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[8Plearawk '$3 ~ /ia/ { print $1 }' demo.txt [A]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ [C[C[C[C[C[C2
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ clear
+[H[2J[3J]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ clearawk '$2 ~ /ia/ { print $1 }' demo.txt [A]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ [C[C[C[C[C[C3
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ [8Pcat demo.txt 
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk '$3 ~ /ia/ { print $1 }' demo.txt [A]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ [C[C[C[C[C[C2
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C! ~ /ia/ { prin[1@t[A]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ [C[C[C[C[C[C[C[C
+
+awk: line 1: syntax error at or near 
+]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ awk '$2! ~ /ia/ { print $1 }' demo.txt [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C ~ /ia/ { print[1P[A]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ [C[C[C[C[C[C[C[C!~ /ia/ { prin[1@t[A]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ [C[C[C[C[C[C[C[C[C[C~ /ia/ { pri[1@n[A]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ [C[C[C[C[C[C[C[C[C[C /ia/ { prin[1P[A]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ [C[C[C[C[C[C[C[C[C
+
+Christ
+1947214
+2020
+Isaac
+This
+Today's
+ole
+this
+]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ awk '$2 !~ /ia/ { print $1 }' demo.txt [A]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ [C[C[C[C[C[C[C! 
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ [C[C[C[C[C[C[C !
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C !~ /ia/ { print[1P[A]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ [C[C[C[C[C[C3 !~ /ia/ { prin[1@t[A]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ [C[C[C[C[C[C[C
+
+Christ
+1947214
+2020
+Isaac
+This
+Today's
+ole
+]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ clear
+[H[2J[3J]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ clearawk '$3 !~ /ia/ { print $1 }' demo.txt 
+Christ
+1947214
+2020
+Isaac
+This
+Today's
+ole
+]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ awk '$3 !~ /ia/ { print $1 }' demo.txt [A]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ clear[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk '$3 !~ /ia/ { print $1 }' demo.txt [A]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ clear[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk '$3 !~ /ia/ { print $1 }' demo.txt [A]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk '$3 !~ /ia/ { print $1 }' demo.txt [A]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ clear[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk '$3 !~ /ia/ { print $1 }' demo.txt [A]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ [C[C[C[C[C[C2
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+Christ
+1947214
+2020
+Isaac
+This
+Today's
+ole
+this
+]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ clear
+[H[2J[3J]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ cat [K[K[K[Kclearawk '$2 !~ /ia/ { print $1 }' demo.txt [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C /ia/ { print[1P[A]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ [C[C[C[C[C[C[C[C[C /ia/ { print [1P[A]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ [C[C[C[C[C[C[C[C/ia/ { print $[1P[A]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ [C[C[C[C[C[C[C /ia/ { print $1[1P[A]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ [C[C[C[C[C[C3 /ia/ { print $[1@1[A]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ [C[C[C[C[C[C[C[C /ia/ { print [1@$[A]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ [C[C[C[C[C[C[C[C> /ia/ { print[1@ [A]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ [C[C[C[C[C[C[C[C[C5 /ia/ { prin[1@t[A]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ [C[C[C[C[C[C[C[C[C[C0 /ia/ { pri[1@n[A]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ [C[C[C[C[C[C[C[C[C[C[C
+
+awk: line 1: syntax error at or near {
+]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ awk '$3 >50 /ia/ { print $1 }' demo.txt [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C>50 /ia/ { prin[1P[A]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ [C[C[C[C[C[C[C
+
+awk: line 1: syntax error at or near {
+]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ awk '$3>50 /ia/ { print $1 }' demo.txt [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C 50 /ia/ { pri[1@n[A]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ [C[C[C[C[C[C[C[C[C
+
+awk: line 1: syntax error at or near {
+]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ awk '$3> 50 /ia/ { print $1 }' demo.txt [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C { prin[1P[A]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C { print[1P[A]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C { print [1P[A]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C { print $[1P[A]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ [C[C[C[C[C[C[C[C[C[C[C[C{ print $1[1P[A]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ [C[C[C[C[C[C[C[C[C[C[C50 { print $1 [1P[A]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ [C[C[C[C[C[C[C[C
+
+Christ
+Isaac
+This
+Today's
+ole
+this
+]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ clear
+[H[2J[3J]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ cat demo.txt 
+Christ University(Deemed to be Uniiversity)
+1947214
+2020 14 15
+Isaac Xavier Desouza
+This is unix lab 8
+Today's date is 4th August 2020
+ole oole ole oole , feeling hot hot hot
+this is ia
+]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ cat demo.txt [8Plearawk '$3>50 { print $1 }' demo.txt 
+Christ
+Isaac
+This
+Today's
+ole
+this
+]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ clear
+[H[2J[3J]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ awk '$4 == 31, $4== ==[C[C  33 { print $0 }' demo.txt 
+]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ cat demo.txt 
+Christ University(Deemed to be Uniiversity)
+1947214
+2020 14 15
+Isaac Xavier Desouza
+This is unix lab 8
+Today's date is 4th August 2020
+ole oole ole oole , feeling hot hot hot
+this is ia
+]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ clear
+[H[2J[3J]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ cat[K[K[Kvim dew[Kmo.txt 
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[24;1H"demo.txt" 8L, 186C[2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[1;1HChrist University(Deemed to be Uniiversity)
+1947214
+2020 14 15
+Isaac Xavier Desouza
+This is unix lab 8
+Today's date is 4th August 2020
+ole oole ole oole , feeling hot hot hot
+this is ia
+[94m~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [m[24;63H8,10[10CAll[8;10H[?25hP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[27m[23m[29m[m[H[2J[?25l[1;1HChrist University(Deemed to be Uniiversity)
+1947214
+2020 14 15
+Isaac Xavier Desouza
+This is unix lab 8
+Today's date is 4th August 2020
+ole oole ole oole , feeling hot hot hot
+this is ia
+[94m~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [m[24;63H8,10[10CAll"demo.txt" 8L, 186C[8;10H[?25h[?25l[24;53Hi[8;10H[24;53H [8;10H[24;1H[1m-- INSERT --[m[24;13H[K[24;63H8,10[10CAll[8;10H[?25h[?25l[24;66H1[8;11H[?25h[?25l[9;1H[K[24;63H9,1 [9;1H[?25h[?25la[24;65H2[9;2H[?25h[?25l[24;65H3[9;3H[?25h[?25lb[24;65H4[9;4H[?25h[?25l[24;65H5[9;5H[?25h[?25lc[24;65H6[9;6H[?25h[?25l[24;65H7[9;7H[?25h[?25l3[24;65H8[9;8H[?25h[?25l1[24;65H9[9;9H[?25h[?25l[24;65H10[9;10H[?25h[?25lg[24;66H1[9;11H[?25h[?25lg[24;66H2[9;12H[?25h[?25lh[24;66H3[9;13H[?25h[?25l[10;1H[K[24;63H10,1[10;1H[?25h[?25lc[24;66H2[10;2H[?25h[?25l[24;66H3[10;3H[?25h[?25ld[24;66H4[10;4H[?25h[?25l[24;66H5[10;5H[?25h[?25le[24;66H6[10;6H[?25h[?25l[24;66H7[10;7H[?25h[?25lf[24;66H8[10;8H[?25h[?25l[10;7H[K[24;66H7[10;7H[?25h[?25l3[24;66H8[10;8H[?25h[?25l3[24;66H9[10;9H[?25h[?25l[24;66H10[10;10H[?25h[?25lh[24;67H1[10;11H[?25h[?25le[24;67H2[10;12H[?25h[?25lh[24;67H3[10;13H[?25h[?25le[24;67H4[10;14H[?25h[?25l`[24;67H5[10;15H[?25h[?25l[10;14H[K[24;67H4[10;14H[?25h[24;1H[K[10;13H[?25l[24;53H^[[10;13H[24;53H  [10;14H[24;63H10,13[9CAll[10;13H[?25h[?25l[24;53H:[10;13H[24;53H[K[24;1H:[?2004h[?25hwq[?25l[?2004l"demo.txt" 10L, 213C written[23;2t[23;1t
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ vim demo.txt [8Pclear
+[H[2J[3J]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ clearvim demo.txt [8Pclearat demo.txt awk '$4 == 31, $4 == 33 { print $0 }' demo.txt 
+a b c 31 ggh
+c d e 33 hehe
+]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ cat demo.txt 
+Christ University(Deemed to be Uniiversity)
+1947214
+2020 14 15
+Isaac Xavier Desouza
+This is unix lab 8
+Today's date is 4th August 2020
+ole oole ole oole , feeling hot hot hot
+this is ia
+a b c 31 ggh
+c d e 33 hehe
+]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ clear
+[H[2J[3J]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ awk 'BEGIN { print "S tart procers[K[Kssing [K" } de[K[K[K' demo.txt 
+Start processing
+]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ awk 'BEGIN { print "Start processing" }' demo.txt ; { print $3 }; END[C[1P[C[C[C[C[C[C[C[C[C[C[1P[1P[1P[1P[1P[1P[1P[1P[1P[C[1P[C[C[C[1@ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C { print "End processing" } [K' demo.txt 
+Start processing
+to
+
+15
+Desouza
+unix
+is
+ole
+ia
+c
+e
+End processing
+]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ clear
+[H[2J[3J]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ cat [K[K[K[Kclearawk 'BEGIN { print "Start processing" } ; { print $3 }; END { print "End processing" }' demo.txt 
+Start processing
+to
+
+15
+Desouza
+unix
+is
+ole
+ia
+c
+e
+End processing
+]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ clear
+[H[2J[3J]0;isaac@isaac-ubuntu: ~/Desktop/3MCA/unix_labs/Pract8_4_8_20[01;32misaac@isaac-ubuntu[00m:[01;34m~/Desktop/3MCA/unix_labs/Pract8_4_8_20[00m$ 
+]0;isaac@isaac-ubuntu: ~/Desktop/3
