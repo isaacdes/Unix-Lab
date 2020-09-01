@@ -23,11 +23,12 @@ int main()
 	char *pStr = malloc(sizeof(char)*4);
 	int n = 10;                    //local variable of function will be stored in stack segmennt
        	int ans;                       //local variable of function will be stored in stack segment
-	ans=factorial(n);       	      	                                                                                printf("\nAddress of variables in Stack \n");      
+	ans=factorial(n);       	      
+	printf("\nAddress of variables in Stack \n");      
 	printf("\n n    : %p", &n);
   	printf("\n ans    : %p", &ans);   
-	      	                                                                                                 	      	                                                                                                 	                printf("\nAddress of variables in heap \n");
-																															printf("\n pStr    : %p", &pStr);
-																															return 0;
+	printf("\nAddress of variables in heap \n");
+	printf("\n pStr    : %p", &pStr);\
+	return 0;
 }
 
