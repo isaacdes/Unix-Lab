@@ -42,7 +42,7 @@ int main()
 	char *pStr = malloc(sizeof(char)*4);
 	int n = 10;                    //local variable of function will be stored in stack segmennt
        	int ans;                       //local variable of function will be stored in stack segment
-	ans=armstrong(153);       	      
+	ans=armstrong(n);       	      
 	printf("\nAddress of variables in Stack \n");      
 	printf("\n n    : %p", &n);
   	printf("\n ans    : %d", &ans);   
