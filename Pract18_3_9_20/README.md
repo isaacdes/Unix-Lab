@@ -10,3 +10,4 @@
 3. Ls -i and Df -I usage
 4. Create Soft link, Hard link for a file and demonstrate inode number
 5. Diffrentiate inode number for a.text and A.txt
+
