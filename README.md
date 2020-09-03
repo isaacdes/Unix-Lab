@@ -9,3 +9,6 @@
 [Lab7(GREP)](Pract07_23_6_20/)
 [Lab8(awk)](Pract08_4_8_20/)
 [lab9(process)](Pract09_11_8_20/)
+[]
+[]
+[Lab18(iNODE)](Pract18_3_9_20/)
