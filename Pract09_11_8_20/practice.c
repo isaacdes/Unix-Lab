@@ -5,7 +5,8 @@
 int main()
 {
 	printf("Parent id: %d", getpid());
-	int parent=getpid();
-	printf("\nparent: %d",parent);
+	int parent=getppid();
+	fork();
+	printf("\nparent: %d  child: %d",getppid(), getpid());
 	return 0;
 }
