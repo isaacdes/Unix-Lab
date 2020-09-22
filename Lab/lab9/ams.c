@@ -33,8 +33,8 @@ void  main(void)
      int     status;
      int     i;
      char    buf[BUF_SIZE];
-	printf("\nNAME : AMBILY FRACIS\n");
-	printf("REGNO:1947204\n");
+	printf("\nIsaac Xavier Desouza\n");
+	printf("1947214\n");
 	printf("");
      printf("*** Parent is about to fork process 1 ***\n");
      if ((pid1 = fork()) < 0) {
