@@ -52,7 +52,7 @@
 		printf("\n n    : %p", &n);
 	  	printf("\n ans    : %d", &ans);   
 		printf("\nAddress of variables in heap \n");
-		printf("\n pStr    : %p", &pStr);\
+		printf("\n pStr    : %p\n", &pStr);\
 		return 0;
 	}
 

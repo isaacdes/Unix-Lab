@@ -1,525 +1,0 @@
-Script started on 2020-09-03 14:24:05+05:30 [TERM="xterm-256color" TTY="/dev/tty1" COLUMNS="120" LINES="30"]
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls
-lab#18_1947204.txt
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls
-lab#18_1947204.txt
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ mkdir christ*
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ cd christ*
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18/christ*[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18/christ*[00m$ l[Ktouch fil[K[K[Kdemo.txt
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18/christ*[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18/christ*[00m$ cat > demo.txt
-welcome to christ university
-have anice day^C
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18/christ*[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18/christ*[00m$ ls
-demo.txt
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18/christ*[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18/christ*[00m$ cd -
-/home/ambily/MCA/saleemamaam/LAB18
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls
-[0m[01;34m'christ*'[0m   lab#18_1947204.txt
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ rm christ*
-rm: cannot remove 'christ*': Is a directory
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ rmdir christ*
-rmdir: failed to remove 'christ*': Directory not empty
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ mkdir happy
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls
-[0m[01;34m'christ*'[0m   [01;34mhappy[0m   lab#18_1947204.txt
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ rm happy
-rm: cannot remove 'happy': Is a directory
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ rmdir happy
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls
-[0m[01;34m'christ*'[0m   lab#18_1947204.txt
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ touch christ[K*
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ rm christ[K*
-rm: cannot remove 'christ*': Is a directory
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ touch ambily*
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ rm ambily*
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls
-[0m[01;34m'christ*'[0m   lab#18_1947204.txt
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ lsrm ambily*[3@touch[C[C[C[C[C[C[C[C[4Prm chris*[3@touch[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[Kls
-[0m[01;34m'christ*'[0m   lab#18_1947204.txt
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ touch happy*
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls
-[0m[01;34m'christ*'[0m  'happy*'   lab#18_1947204.txt
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ rm touc[K[K[K[Khappy*
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls
-[0m[01;34m'christ*'[0m   lab#18_1947204.txt
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ touch 2005/20/3
-touch: cannot touch '2005/20/3': No such file or directory
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ touch hope
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ cat >chr[K[K[K christ*
-bash: christ*: Is a directory
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ cat > christ*[1Pst*[1Pst*[1Pst*[1Pst*[C[1Pt*[C[1P*g*o*o*d*n*i*g*h*t*
-chrst*
-^C
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls
-[0m[01;34m'christ*'[0m  'goodnight*'   hope   lab#18_1947204.txt
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ rm [K[K[Kcat > hope
-christ*
-^V^C
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls
-[0m[01;34m'christ*'[0m  'goodnight*'   hope   lab#18_1947204.txt
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ cd [K[K[Krm hope
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls
-[0m[01;34m'christ*'[0m  'goodnight*'   lab#18_1947204.txt
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ rm goof[Kdnight*
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls
-[0m[01;34m'christ*'[0m   lab#18_1947204.txt
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ 1kmlav,sfK2-[K[K[K[K[K[K[K[K[K[K[K[Krm christ*
-rm: cannot remove 'christ*': Is a directory
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ rm christ*d christ*i christ*r christ*
-rmdir: failed to remove 'christ*': Directory not empty
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls
-[0m[01;34m'christ*'[0m   lab#18_1947204.txt
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ stat christ*
-  File: christ*
-  Size: 4096      	Blocks: 0          IO Block: 4096   directory
-Device: 2h/2d	Inode: 4222124650661672  Links: 1
-Access: (0755/drwxr-xr-x)  Uid: ( 1000/  ambily)   Gid: ( 1000/  ambily)
-Access: 2020-09-03 14:37:21.384049800 +0530
-Modify: 2020-09-03 14:37:21.384049800 +0530
-Change: 2020-09-03 14:37:21.384049800 +0530
- Birth: -
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ touch p[Kbreakthe chain
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ cat >breakthe chain
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls
- breakthe   chain  [0m[01;34m'christ*'[0m   lab#18_1947204.txt
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ cat >breathe breathe[C[C[C[Ckthe
-introduction to life,
-innovation can lead as  us into a different mind    life which ri  provids a sercastic^[[D^[[D^[[D            ^[[D^[[D        ^[[D    
-^C
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ cat > breakthe[C[1P breakthe[1Pbreakthe[1P breakthe[1P breakthe[1P breakthes breakthet breakthea breakthet breakthe
-  File: breakthe
-  Size: 93        	Blocks: 0          IO Block: 4096   regular file
-Device: 2h/2d	Inode: 14636698788954243  Links: 1
-Access: (0644/-rw-r--r--)  Uid: ( 1000/  ambily)   Gid: ( 1000/  ambily)
-Access: 2020-09-03 15:10:01.364750100 +0530
-Modify: 2020-09-03 15:11:44.464556700 +0530
-Change: 2020-09-03 15:11:44.464556700 +0530
- Birth: -
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls -i
-14636698788954243  breakthe   4222124650661672 [0m[01;34m'christ*'[0m
- 4222124650663931  chain      6473924464346869  lab#18_1947204.txt
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ df -I
-df: invalid option -- 'I'
-Try 'df --help' for more information.
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ df
-Filesystem     1K-blocks      Used Available Use% Mounted on
-rootfs         203412484 109973404  93439080  55% /
-none           203412484 109973404  93439080  55% /dev
-none           203412484 109973404  93439080  55% /run
-none           203412484 109973404  93439080  55% /run/lock
-none           203412484 109973404  93439080  55% /run/shm
-none           203412484 109973404  93439080  55% /run/user
-tmpfs          203412484 109973404  93439080  55% /sys/fs/cgroup
-C:\            203412484 109973404  93439080  55% /mnt/c
-D:\            669559804 444174392 225385412  67% /mnt/d
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ DF[Kf -I
-Df: command not found
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ df -i
-Filesystem     Inodes   IUsed   IFree IUse% Mounted on
-rootfs            999 -999001 1000000     - /
-none              999 -999001 1000000     - /dev
-none              999 -999001 1000000     - /run
-none              999 -999001 1000000     - /run/lock
-none              999 -999001 1000000     - /run/shm
-none              999 -999001 1000000     - /run/user
-tmpfs             999 -999001 1000000     - /sys/fs/cgroup
-C:\               999 -999001 1000000     - /mnt/c
-D:\               999 -999001 1000000     - /mnt/d
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls -li
-total 16
-14636698788954243 -rw-r--r-- 1 ambily ambily    93 Sep  3 15:11  breakthe
- 4222124650663931 -rw-r--r-- 1 ambily ambily     0 Sep  3 15:10  chain
- 4222124650661672 drwxr-xr-x 1 ambily ambily  4096 Sep  3 14:37 [0m[01;34m'christ*'[0m
- 6473924464346869 -rw-r--r-- 1 ambily ambily 12288 Sep  3 15:12  lab#18_1947204.txt
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ touch a.txt
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ touch A.txt
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls -li
-total 16
-16888498602643436 -rw-r--r-- 1 ambily ambily     0 Sep  3 15:16  A.txt
- 4785074604083237 -rw-r--r-- 1 ambily ambily     0 Sep  3 15:16  a.txt
-14636698788954243 -rw-r--r-- 1 ambily ambily    93 Sep  3 15:11  breakthe
- 4222124650663931 -rw-r--r-- 1 ambily ambily     0 Sep  3 15:10  chain
- 4222124650661672 drwxr-xr-x 1 ambily ambily  4096 Sep  3 14:37 [0m[01;34m'christ*'[0m
- 6473924464346869 -rw-r--r-- 1 ambily ambily 12288 Sep  3 15:12  lab#18_1947204.txt
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ df -i
-Filesystem     Inodes   IUsed   IFree IUse% Mounted on
-rootfs            999 -999001 1000000     - /
-none              999 -999001 1000000     - /dev
-none              999 -999001 1000000     - /run
-none              999 -999001 1000000     - /run/lock
-none              999 -999001 1000000     - /run/shm
-none              999 -999001 1000000     - /run/user
-tmpfs             999 -999001 1000000     - /sys/fs/cgroup
-C:\               999 -999001 1000000     - /mnt/c
-D:\               999 -999001 1000000     - /mnt/d
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls -l
-total 16
--rw-r--r-- 1 ambily ambily     0 Sep  3 15:16  A.txt
--rw-r--r-- 1 ambily ambily     0 Sep  3 15:16  a.txt
--rw-r--r-- 1 ambily ambily    93 Sep  3 15:11  breakthe
--rw-r--r-- 1 ambily ambily     0 Sep  3 15:10  chain
-drwxr-xr-x 1 ambily ambily  4096 Sep  3 14:37 [0m[01;34m'christ*'[0m
--rw-r--r-- 1 ambily ambily 12288 Sep  3 15:12  lab#18_1947204.txt
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls -l a.txt
--rw-r--r-- 1 ambily ambily 0 Sep  3 15:16 a.txt
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls l A.txt
-ls: cannot access 'l': No such file or directory
-A.txt
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls l A.txt[1@-[C[Ca.txt
--rw-r--r-- 1 ambily ambily 0 Sep  3 15:16 a.txt
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ df -i
-Filesystem     Inodes   IUsed   IFree IUse% Mounted on
-rootfs            999 -999001 1000000     - /
-none              999 -999001 1000000     - /dev
-none              999 -999001 1000000     - /run
-none              999 -999001 1000000     - /run/lock
-none              999 -999001 1000000     - /run/shm
-none              999 -999001 1000000     - /run/user
-tmpfs             999 -999001 1000000     - /sys/fs/cgroup
-C:\               999 -999001 1000000     - /mnt/c
-D:\               999 -999001 1000000     - /mnt/d
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ df -i a.txt
-Filesystem     Inodes   IUsed   IFree IUse% Mounted on
-rootfs            999 -999001 1000000     - /
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls -ali
-total 16
- 6473924464346655 drwxr-xr-x 1 ambily ambily  4096 Sep  3 15:16  [0m[01;34m.[0m
- 4503599627409751 drwxr-xr-x 1 ambily ambily  4096 Sep  3 14:14  [01;34m..[0m
-16888498602643436 -rw-r--r-- 1 ambily ambily     0 Sep  3 15:16  A.txt
- 4785074604083237 -rw-r--r-- 1 ambily ambily     0 Sep  3 15:16  a.txt
-14636698788954243 -rw-r--r-- 1 ambily ambily    93 Sep  3 15:11  breakthe
- 4222124650663931 -rw-r--r-- 1 ambily ambily     0 Sep  3 15:10  chain
- 4222124650661672 drwxr-xr-x 1 ambily ambily  4096 Sep  3 14:37 [01;34m'christ*'[0m
- 6473924464346869 -rw-r--r-- 1 ambily ambily 16384 Sep  3 15:17  lab#18_1947204.txt
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls -ali a.txt
-4785074604083237 -rw-r--r-- 1 ambily ambily 0 Sep  3 15:16 a.txt
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls -ali a.txt[1P.txtA.txt
-16888498602643436 -rw-r--r-- 1 ambily ambily 0 Sep  3 15:16 A.txt
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls
- A.txt   a.txt   breakthe   chain  [0m[01;34m'christ*'[0m   lab#18_1947204.txt
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ln [K[K[Ktouch file[K[K[K[Knewfi[K[K[K[K[Kdemo
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls
- A.txt   a.txt   breakthe   chain  [0m[01;34m'christ*'[0m   demo   lab#18_1947204.txt
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ln demo hradlink_to_demo[1Pdlink_to_demo[1Pdlink_to_demoadlink_to_demordlink_to_demo
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls -li
-total 16
-16888498602643436 -rw-r--r-- 1 ambily ambily     0 Sep  3 15:16  A.txt
- 4785074604083237 -rw-r--r-- 1 ambily ambily     0 Sep  3 15:16  a.txt
-14636698788954243 -rw-r--r-- 1 ambily ambily    93 Sep  3 15:11  breakthe
- 4222124650663931 -rw-r--r-- 1 ambily ambily     0 Sep  3 15:10  chain
- 4222124650661672 drwxr-xr-x 1 ambily ambily  4096 Sep  3 14:37 [0m[01;34m'christ*'[0m
- 4222124650662035 -rw-r--r-- 2 ambily ambily     0 Sep  3 15:22  demo
- 4222124650662035 -rw-r--r-- 2 ambily ambily     0 Sep  3 15:22  hardlink_to_demo
- 6473924464346869 -rw-r--r-- 1 ambily ambily 16384 Sep  3 15:17  lab#18_1947204.txt
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls -lin demo hardlink_to_demo[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K^V[Kls[K[K^[[Atouch demo[1Pemo[1Pemo[1Pemo[1Pemo[1Pemo[1Pemo[1Pemo[C[C[C[K[K[Kfind 4222124650662035
-find: ‘4222124650662035’: No such file or directory
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ find 4222124650662035[Ci4222124650662035n4222124650662035u4222124650662035m4222124650662035/4222124650662035/inum/4222124650662035-inum/4222124650662035[C[C[C[C[C[1P4222124650662035 4222124650662035
-find: ‘/-inum’: No such file or directory
-find: ‘4222124650662035’: No such file or directory
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls
- A.txt   a.txt   breakthe   chain  [0m[01;34m'christ*'[0m   demo   hardlink_to_demo   lab#18_1947204.txt
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ln -s demo su[Kymbolic_r[Kto_demo
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls -li
-total 32
-16888498602643436 -rw-r--r-- 1 ambily ambily     0 Sep  3 15:16  A.txt
- 4785074604083237 -rw-r--r-- 1 ambily ambily     0 Sep  3 15:16  a.txt
-14636698788954243 -rw-r--r-- 1 ambily ambily    93 Sep  3 15:11  breakthe
- 4222124650663931 -rw-r--r-- 1 ambily ambily     0 Sep  3 15:10  chain
- 4222124650661672 drwxr-xr-x 1 ambily ambily  4096 Sep  3 14:37 [0m[01;34m'christ*'[0m
- 4222124650662035 -rw-r--r-- 2 ambily ambily     0 Sep  3 15:22  demo
- 4222124650662035 -rw-r--r-- 2 ambily ambily     0 Sep  3 15:22  hardlink_to_demo
- 6473924464346869 -rw-r--r-- 1 ambily ambily 20480 Sep  3 15:25  lab#18_1947204.txt
- 2251799813689492 lrwxrwxrwx 1 ambily ambily     4 Sep  3 15:27  [01;36msymbolic_to_demo[0m -> demo
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls -lin -s demo symbolic_to_demo[K[K[K[K[K[K[K[K[K[K[K[Klinl[Kk_to [K_demo
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls
- A.txt   breakthe  [0m[01;34m'christ*'[0m   hardlink_to_demo     [01;36msymblink_to_demo[0m
- a.txt   chain      demo       lab#18_1947204.txt   [01;36msymbolic_to_demo[0m
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ln -s [K[K[Kili[K[K[K-;[Kli
-ln: invalid option -- 'l'
-Try 'ln --help' for more information.
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ln -li[1P -lis -li
-total 32
-16888498602643436 -rw-r--r-- 1 ambily ambily     0 Sep  3 15:16  A.txt
- 4785074604083237 -rw-r--r-- 1 ambily ambily     0 Sep  3 15:16  a.txt
-14636698788954243 -rw-r--r-- 1 ambily ambily    93 Sep  3 15:11  breakthe
- 4222124650663931 -rw-r--r-- 1 ambily ambily     0 Sep  3 15:10  chain
- 4222124650661672 drwxr-xr-x 1 ambily ambily  4096 Sep  3 14:37 [0m[01;34m'christ*'[0m
- 4222124650662035 -rw-r--r-- 2 ambily ambily     0 Sep  3 15:22  demo
- 4222124650662035 -rw-r--r-- 2 ambily ambily     0 Sep  3 15:22  hardlink_to_demo
- 6473924464346869 -rw-r--r-- 1 ambily ambily 20480 Sep  3 15:25  lab#18_1947204.txt
- 1407374883557539 lrwxrwxrwx 1 ambily ambily     4 Sep  3 15:28  [01;36msymblink_to_demo[0m -> demo
- 2251799813689492 lrwxrwxrwx 1 ambily ambily     4 Sep  3 15:27  [01;36msymbolic_to_demo[0m -> demo
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls -i
-16888498602643436  A.txt      4222124650662035  demo
- 4785074604083237  a.txt      4222124650662035  hardlink_to_demo
-14636698788954243  breakthe   6473924464346869  lab#18_1947204.txt
- 4222124650663931  chain      1407374883557539  [0m[01;36msymblink_to_demo[0m
- 4222124650661672 [01;34m'christ*'[0m   2251799813689492  [01;36msymbolic_to_demo[0m
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ df -i
-Filesystem     Inodes   IUsed   IFree IUse% Mounted on
-rootfs            999 -999001 1000000     - /
-none              999 -999001 1000000     - /dev
-none              999 -999001 1000000     - /run
-none              999 -999001 1000000     - /run/lock
-none              999 -999001 1000000     - /run/shm
-none              999 -999001 1000000     - /run/user
-tmpfs             999 -999001 1000000     - /sys/fs/cgroup
-C:\               999 -999001 1000000     - /mnt/c
-D:\               999 -999001 1000000     - /mnt/d
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ man ls -i
-[?1049h[22;0;0t[?1h=LS(1)                                    User Commands                                    LS(1)[m
-[m
-[1mNAME[0m[m
-       ls - list directory contents[m
-[m
-[1mSYNOPSIS[0m[m
-       [1mls[0m [[4mOPTION[24m]... [[4mFILE[24m]...[m
-[m
-[1mDESCRIPTION[0m[m
-       List  information  about the FILEs (the current directory by default).  Sort entries al‐[m
-       phabetically if none of [1m-cftuvSUX[0m nor [1m--sort[0m is specified.[m
-[m
-       Mandatory arguments to long options are mandatory for short options too.[m
-[m
-       [1m-a[0m, [1m--all[0m[m
-              do not ignore entries starting with .[m
-[m
-[7m Manual page ls(1) line 1 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0tNo manual entry for -i
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ man -i
-What manual page do you want?
-For example, try 'man man'.
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ df -I
-df: invalid option -- 'I'
-Try 'df --help' for more information.
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ df -l
-Filesystem     1K-blocks      Used Available Use% Mounted on
-rootfs         203412484 109978620  93433864  55% /
-none           203412484 109978620  93433864  55% /dev
-none           203412484 109978620  93433864  55% /run
-none           203412484 109978620  93433864  55% /run/lock
-none           203412484 109978620  93433864  55% /run/shm
-none           203412484 109978620  93433864  55% /run/user
-tmpfs          203412484 109978620  93433864  55% /sys/fs/cgroup
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls -i
-16888498602643436  A.txt      4222124650662035  demo
- 4785074604083237  a.txt      4222124650662035  hardlink_to_demo
-14636698788954243  breakthe   6473924464346869  lab#18_1947204.txt
- 4222124650663931  chain      1407374883557539  [0m[01;36msymblink_to_demo[0m
- 4222124650661672 [01;34m'christ*'[0m   2251799813689492  [01;36msymbolic_to_demo[0m
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls -l
-total 64
--rw-r--r-- 1 ambily ambily     0 Sep  3 15:16  A.txt
--rw-r--r-- 1 ambily ambily     0 Sep  3 15:16  a.txt
--rw-r--r-- 1 ambily ambily    93 Sep  3 15:11  breakthe
--rw-r--r-- 1 ambily ambily     0 Sep  3 15:10  chain
-drwxr-xr-x 1 ambily ambily  4096 Sep  3 14:37 [0m[01;34m'christ*'[0m
--rw-r--r-- 2 ambily ambily     0 Sep  3 15:22  demo
--rw-r--r-- 2 ambily ambily     0 Sep  3 15:22  hardlink_to_demo
--rw-r--r-- 1 ambily ambily 45056 Sep  3 15:49  lab#18_1947204.txt
-lrwxrwxrwx 1 ambily ambily     4 Sep  3 15:28  [01;36msymblink_to_demo[0m -> demo
-lrwxrwxrwx 1 ambily ambily     4 Sep  3 15:27  [01;36msymbolic_to_demo[0m -> demo
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ touch a.txtext
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls -l
-total 64
--rw-r--r-- 1 ambily ambily     0 Sep  3 15:16  A.txt
--rw-r--r-- 1 ambily ambily     0 Sep  3 16:03  a.text
--rw-r--r-- 1 ambily ambily     0 Sep  3 15:16  a.txt
--rw-r--r-- 1 ambily ambily    93 Sep  3 15:11  breakthe
--rw-r--r-- 1 ambily ambily     0 Sep  3 15:10  chain
-drwxr-xr-x 1 ambily ambily  4096 Sep  3 14:37 [0m[01;34m'christ*'[0m
--rw-r--r-- 2 ambily ambily     0 Sep  3 15:22  demo
--rw-r--r-- 2 ambily ambily     0 Sep  3 15:22  hardlink_to_demo
--rw-r--r-- 1 ambily ambily 45056 Sep  3 15:49  lab#18_1947204.txt
-lrwxrwxrwx 1 ambily ambily     4 Sep  3 15:28  [01;36msymblink_to_demo[0m -> demo
-lrwxrwxrwx 1 ambily ambily     4 Sep  3 15:27  [01;36msymbolic_to_demo[0m -> demo
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls -l[Ki
-16888498602643436  A.txt      4222124650662035  demo
- 9851624184877063  a.text     4222124650662035  hardlink_to_demo
- 4785074604083237  a.txt      6473924464346869  lab#18_1947204.txt
-14636698788954243  breakthe   1407374883557539  [0m[01;36msymblink_to_demo[0m
- 4222124650663931  chain      2251799813689492  [01;36msymbolic_to_demo[0m
- 4222124650661672 [01;34m'christ*'[0m
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls -iltouch a.text[7Pls -lidf -lIman -ils -i[4Pdf[C[C[Cls[C[C[Clin[C[C[C[Cs[Kn -s demo symblink_to_demos -li[Kn -s demo symbolic_to_demos[Kfind /-inum 4222124650662035[7P4222124650662035ls -li[K[K^[[Atouch demols[K -ali A.txta.txt[Kdf -i a.txt[Kls -l a.txtA.txta.txt[Kdf -ils -litouch A.txta.txt[5Pls -li[1Pdf -iDf -I[3Pdf -Ils -istat breakthe[1@cat >[C[C[C[C[C[C[C[C[Cls[Kcat >breakthe chain[1@touch [C[C[C[C[C[C[C[C[C[C[C[C[C[C[8Pstat christ*[K[K[K[K[K[K[Kdemo
-  File: demo
-  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
-Device: 2h/2d	Inode: 4222124650662035  Links: 2
-Access: (0644/-rw-r--r--)  Uid: ( 1000/  ambily)   Gid: ( 1000/  ambily)
-Access: 2020-09-03 15:22:36.381284900 +0530
-Modify: 2020-09-03 15:22:36.381284900 +0530
-Change: 2020-09-03 15:22:59.495325000 +0530
- Birth: -
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ rm a.txet[C[1Pt[1Ptetxt
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ rm a/[K.xtx[K[K[Ktxt
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ rm A.txt
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls
- breakthe  [0m[01;34m'christ*'[0m   hardlink_to_demo     [01;36msymblink_to_demo[0m
- chain      demo       lab#18_1947204.txt   [01;36msymbolic_to_demo[0m
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ touch a.text
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ touch A.txt
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls -i a.tx[Kext
-17732923532775404 a.text
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls -i a.text[1Pxt[1P.txtA.txt
-155937137097707989 A.txt
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ touv[Kch "\+xy \+\8"
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls
- A.txt        breakthe   demo                 [0m[01;36msymblink_to_demo[0m
-'\+xy \+\8'   chain      hardlink_to_demo     [01;36msymbolic_to_demo[0m
- a.text      [01;34m'christ*'[0m   lab#18_1947204.txt
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ lstouch "\+xy \+\8"[1P[1P[1P[1P[1P[1@r[1@m
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls
- A.txt    breakthe  [0m[01;34m'christ*'[0m   hardlink_to_demo     [01;36msymblink_to_demo[0m
- a.text   chain      demo       lab#18_1947204.txt   [01;36msymbolic_to_demo[0m
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ stat A.txt
-  File: A.txt
-  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
-Device: 2h/2d	Inode: 155937137097707989  Links: 1
-Access: (0644/-rw-r--r--)  Uid: ( 1000/  ambily)   Gid: ( 1000/  ambily)
-Access: 2020-09-03 16:19:37.846011500 +0530
-Modify: 2020-09-03 16:19:37.846011500 +0530
-Change: 2020-09-03 16:19:37.846011500 +0530
- Birth: -
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ stat atext.text
-  File: a.text
-  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
-Device: 2h/2d	Inode: 17732923532775404  Links: 1
-Access: (0644/-rw-r--r--)  Uid: ( 1000/  ambily)   Gid: ( 1000/  ambily)
-Access: 2020-09-03 16:19:25.954621800 +0530
-Modify: 2020-09-03 16:19:25.954621800 +0530
-Change: 2020-09-03 16:19:25.954621800 +0530
- Birth: -
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ touch Christ*
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ touch Christ*[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[Kls
- A.txt      breakthe   demo                 [0m[01;36msymblink_to_demo[0m
-'Christ*'   chain      hardlink_to_demo     [01;36msymbolic_to_demo[0m
- a.text    [01;34m'christ*'[0m   lab#18_1947204.txt
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ lstouch Christ*[1P Christ*[1P Christ*[1P Christ*[1P Christ*[1P Christ*c Christ*a Christ*t Christ*[C Christ*> Christ*
-chrst*
-^C
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ li[Ks -il cat > Christ*[1P Christ*[1PChrist*[1P Christ*[1P Christ*[1P Christ*l Christ*s Christ*[C Christ*- Christ*i Christ*l Christ*
-10133099161586049 -rw-r--r-- 1 ambily ambily 7 Sep  3 16:48 'Christ*'
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ^V[K10133099161586049f10133099161586049i10133099161586049n10133099161586049d10133099161586049 10133099161586049[C[C[C[C[C[C 10133099161586049. 10133099161586049[C 10133099161586049- 10133099161586049i 10133099161586049n 10133099161586049u 10133099161586049m 10133099161586049[C 10133099161586049[1P10133099161586049[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C [K[K9 -exe c rm i {} \;
-rm: cannot remove 'i': No such file or directory
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ find . -inum 10133099161586049 -exec rm i {} \;[A]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [21Pls -il Christ*
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pcat >[C[C[C[C[C[C[C[Cls[Ktouch Christ*\Christ*\Christ*[C[C[C[C[C[C[C$$$
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls
- A.txt          breakthe   demo                 [0m[01;36msymblink_to_demo[0m
-'\Christ*72$'   chain      hardlink_to_demo     [01;36msymbolic_to_demo[0m
- a.text        [01;34m'christ*'[0m   lab#18_1947204.txt
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ lstouch \\Christ*$$$ *$$$\*$$$
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ touch \\Christ \*$$$ls[Ktouch \\Christ*$$$find . -inum 10133099161586049 -exec rm i {} \;[A]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [17Ptouch \\Christ*$$$
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cfind . -inum 10133099161586049 -exec rm i {} \;[A]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [21Pls -il Christ*
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pcat >[C[C[C[C[C[C[C[Cls[Ktouch Christ*[2Pstat a.texttouch Christ*ls[Kcat > Christ*[1@ls -il[C[C[C[C[C[C[C[Cfind . -inum 10133099161586049 -exec rm i {} \;[A]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [17Ptouch \\Christ*$$$
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PChrist*$$$[1PChrist*$$$[1PChrist*$$$[1PChrist*$$$[1PChrist*$$$[1PChrist*$$$[1PChrist*$$$[1PChrist*$$$rChrist*$$$mChrist*$$$ Christ*$$$\Christ*$$$\Christ*$$$
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls
-'*72$'  '\Christ'   breakthe  [0m[01;34m'christ*'[0m   hardlink_to_demo     [01;36msymblink_to_demo[0m
- A.txt   a.text     chain      demo       lab#18_1947204.txt   [01;36msymbolic_to_demo[0m
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ lsrm \\Christ*$$$touch \\Christ \*$$$\\[K[K
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls
-'*72$'  '\Christ'   breakthe  [0m[01;34m'christ*'[0m   hardlink_to_demo     [01;36msymblink_to_demo[0m
- A.txt   a.text     chain      demo       lab#18_1947204.txt   [01;36msymbolic_to_demo[0m
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ lstouch \\Christ \*$$$[1P[1P[1P[1P[1P[1@r[1@m
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls
- A.txt    breakthe  [0m[01;34m'christ*'[0m   hardlink_to_demo     [01;36msymblink_to_demo[0m
- a.text   chain      demo       lab#18_1947204.txt   [01;36msymbolic_to_demo[0m
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ lsrm \\Christ \*$$$ls[Ktouch \\Christ \*$$$[K[K[K[K[K[K[K[K[K[K[K[K[K[K"\christ\*\"\christ\*
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls
-'"christ*'   breakthe   demo                 [0m[01;36msymblink_to_demo[0m
- A.txt       chain      hardlink_to_demo     [01;36msymbolic_to_demo[0m
- a.text     [01;34m'christ*'[0m   lab#18_1947204.txt
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ lstouch \"\christ\*[C[C[1P \"\christ\*[1P \"\christ\*[1P \"\christ\*[1P \"\christ\*[1P \"\christ\*r \"\christ\*m \"\christ\*
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ rm \"\christ\*ls[K
- A.txt    breakthe  [0m[01;34m'christ*'[0m   hardlink_to_demo     [01;36msymblink_to_demo[0m
- a.text   chain      demo       lab#18_1947204.txt   [01;36msymbolic_to_demo[0m
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ lsrm \"\christ\*ls[K
- A.txt    breakthe  [0m[01;34m'christ*'[0m   hardlink_to_demo     [01;36msymblink_to_demo[0m
- a.text   chain      demo       lab#18_1947204.txt   [01;36msymbolic_to_demo[0m
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ lsrm \"\christ\*ls[Ktouch \"\christ\*
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ touch \"\christ\*ls[K
-'"christ*'   breakthe   demo                 [0m[01;36msymblink_to_demo[0m
- A.txt       chain      hardlink_to_demo     [01;36msymbolic_to_demo[0m
- a.text     [01;34m'christ*'[0m   lab#18_1947204.txt
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ rm christ*"christ*
-> 
-> ^C
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls
-'"christ*'   breakthe   demo                 [0m[01;36msymblink_to_demo[0m
- A.txt       chain      hardlink_to_demo     [01;36msymbolic_to_demo[0m
- a.text     [01;34m'christ*'[0m   lab#18_1947204.txt
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls -il "christ*
-> 
-> ^C
-> ^C
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ln -li[K[Ki christ*"christ*
-> ^C
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ l[Kln -i "christ*[1P[1@s
-> ^C
-> ^C
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls -i "christ*
-^C[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[Kl
-total 128
- 32932572275152614 -rw-r--r-- 1 ambily ambily     0 Sep  3 16:58 '"christ*'
-155937137097707989 -rw-r--r-- 1 ambily ambily     0 Sep  3 16:19  A.txt
- 17732923532775404 -rw-r--r-- 1 ambily ambily     0 Sep  3 16:19  a.text
- 14636698788954243 -rw-r--r-- 1 ambily ambily    93 Sep  3 15:11  breakthe
-  4222124650663931 -rw-r--r-- 1 ambily ambily     0 Sep  3 15:10  chain
-  4222124650661672 drwxr-xr-x 1 ambily ambily  4096 Sep  3 14:37 [0m[01;34m'christ*'[0m
-  4222124650662035 -rw-r--r-- 2 ambily ambily     0 Sep  3 15:22  demo
-  4222124650662035 -rw-r--r-- 2 ambily ambily     0 Sep  3 15:22  hardlink_to_demo
-  6473924464346869 -rw-r--r-- 1 ambily ambily 69632 Sep  3 17:02  lab#18_1947204.txt
-  1407374883557539 lrwxrwxrwx 1 ambily ambily     4 Sep  3 15:28  [01;36msymblink_to_demo[0m -> demo
-  2251799813689492 lrwxrwxrwx 1 ambily ambily     4 Sep  3 15:27  [01;36msymbolic_to_demo[0m -> demo
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls -il "christ*
-^C[A]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [Cn
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cs -il "christ*
-
-^C[A[A]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [C[C[K
-[K
-[K[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crm "christ*
-[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctouch \"\christ\*ls[Krm \"\christ\*ls[Ktouch \"\christ\*ls[Krm \\Christ \*$$$ls[Ktouch \\Christ \*$$$ls[Krm \\Christ*$$$touch \\Christ \*$$$ls[Ktouch \\Christ*$$$find . -inum 10133099161586049 -exec rm i {} \;[1@-ls -il Christ*[K[K[K[K[K[K[K[K[K[K[K[K
-'"christ*'   A.txt   a.text   breakthe   chain  [0m[01;34m'christ*'[0m   demo   hardlink_to_demo   lab#18_1947204.txt   [01;36msymblink_to_demo[0m   [01;36msymbolic_to_demo[0m
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls -il "christ*
-^C[A]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [Cn
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cs -il "christ*
-
-^C[A[A]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [C[C[K
-[K
-[K[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crm "christ*
-[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctouch \"\christ\*ls[Krm \"\christ\*ls[Ktouch \"\christ\*ls[Krm \\Christ \*$$$ls[Ktouch \\Christ \*$$$ls[Krm \\Christ*$$$touch \\Christ \*$$$ls[Ktouch \\Christ*$$$find . -inum 10133099161586049 -exec rm -i {} \;ls -il Christ*[Kfind . -inum 10133099161586049 -exec rm -i {} \;ls -il Christ*[Kfind . -inum 10133099161586049 -exec rm -i {} \;[30Ptouch \\Christ*$$$[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kfind . -inum 10133099161586049 -exec rm -i {} \;[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K^[[C[C[K[K[Kls -il Christ*[1Pcat >[C[C[C[C[C[C[C[Cls[K[K[K^[[A[C[K[K[Kcat > Christ*[Ktouch Christ*[K[K[K[K[K[K[K[K[K[K[K[K[K^[[Bstat a.text[1PA.txtls[K[K[K^[[C[K[K[K^[[B[K[K[K^V[K[K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ 3293257226[K75152614f32932572275152614i32932572275152614n32932572275152614d32932572275152614 32932572275152614-32932572275152614i32932572275152614n32932572275152614u32932572275152614m32932572275152614 32932572275152614[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C -exec  rm -i {} \;
-rm: remove regular empty file './"christ*'? y
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ ls
- A.txt    breakthe  [0m[01;34m'christ*'[0m   hardlink_to_demo     [01;36msymblink_to_demo[0m
- a.text   chain      demo       lab#18_1947204.txt   [01;36msymbolic_to_demo[0m
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ [K]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ end
-
-Command 'end' not found, did you mean:
-
-  command 'snd' from deb snd-gtk-jack (20.1-1)
-  command 'snd' from deb snd-gtk-pulse (20.1-1)
-  command 'snd' from deb snd-nox (20.1-1)
-  command 'eid' from deb id-utils (4.6+git20120811-4ubuntu2)
-  command 'nd' from deb nd (0.8.2-8build1)
-  command 'bnd' from deb bnd (3.5.0-4)
-  command 'env' from deb coreutils (8.30-3ubuntu2)
-  command 'ent' from deb ent (1.2debian-2)
-  command 'send' from deb mailutils-mh (1:3.7-2.1)
-  command 'send' from deb mmh (0.4-2)
-  command 'send' from deb nmh (1.7.1-6)
-  command 'ed' from deb ed (1.16-1)
-
-Try: sudo apt install <deb name>
-
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ exit[K[K[K[Kstop
-
-Command 'stop' not found, but there are 18 similar ones.
-
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ sti[Kop script
-
-Command 'stop' not found, but there are 18 similar ones.
-
-]0;ambily@DESKTOP-D41OB8D: ~/MCA/saleemamaam/LAB18[01;32mambily@DESKTOP-D41OB8D[00m:[01;34m~/MCA/saleemamaam/LAB18[00m$ exit script
-exit
-bash: exit: script: numeric argument required
-
-Script done on 2020-09-03 17:19:15+05:30 [COMMAND_EXIT_CODE="2"]
