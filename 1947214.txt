@@ -42,6 +42,11 @@ Length: 5
 isaac
 
 
+QDW'
+'
+
+
+SLS
 
 
 ]0;isaac@DESKTOP-P9TCKPP: ~/cat2[01;32misaac@DESKTOP-P9TCKPP[00m:[01;34m~/cat2[00m$ bash shell1.sh [2Pvim shell1.sh
@@ -52,7 +57,7 @@ echo[m[31m [m[38;5;130m""
 read[m [35m-p[m [38;5;130m"[m[31mEnter a String: [m[38;5;130m"[m word
 [36mlen[m=[35m${#word}[m
 [38;5;130mecho[m[31m [m[38;5;130m"[m[31mLength: [m[35m$len[m[38;5;130m"
-
+SSSWSQ
 for ((i=[m[31m0[m[38;5;130m; i<[m[35m$len[m[38;5;130m; i++))
 do[11;9Hecho[m[31m [m[38;5;130m"[m[35m${word[$i]}[m[38;5;130m"
 done[m

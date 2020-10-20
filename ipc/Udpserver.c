@@ -1,5 +1,5 @@
-//Author:Ambily Francis
-//Regno:1947204
+//Author:Isaac Xavier 
+//Regno:1947214
 //Date:14/10/2020
 
 #include <stdio.h>
@@ -25,7 +25,6 @@ void main(int argc, char **argv)
 	
 	char buffer[1024];
 	char try[1024];
-	printf("Ambily Francis -1947204\n");
 	printf("Enter your data\n");
 	fgets(try,1024,stdin);
 	printf("\nJust for assuring what data was entered\n");
